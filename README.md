@@ -22,3 +22,6 @@ project made during egFWD advanced embedded systems nanodegree as an application
 
 video is uploaded for demonstration and testing
 
+## flowchart
+
+![flowchart](https://github.com/Mohammed-Rashad-Nasr/LED_blinking_on_TIVA_C/blob/main/Flowcharts.png)
