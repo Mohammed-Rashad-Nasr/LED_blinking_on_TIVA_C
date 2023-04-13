@@ -21,6 +21,7 @@ project made during egFWD advanced embedded systems nanodegree as an application
 ## Documentation
 
 video is uploaded for demonstration and testing
+![demonstration](https://drive.google.com/file/d/1ebVJp4SOgRS_9NGiqXKgnytu2LeRKJsO/view?usp=share_link)
 
 ## flowchart
 
